@@ -1,0 +1,38 @@
+{
+    "Name": [
+        "Salary",
+        "Scolarship",
+        "Rent",
+        "Credit card",
+        "Internet bill",
+        "Therapy",
+        "Gym",
+        "Phone bill",
+        "Savings",
+        "Balance"
+    ],
+    "Op": [
+        "input",
+        "input",
+        "output",
+        "output",
+        "output",
+        "output",
+        "output",
+        "output",
+        "output",
+        "---"
+    ],
+    "Value": [
+        1700.0,
+        200.0,
+        850.0,
+        308.0,
+        100.0,
+        100.0,
+        80.0,
+        25.0,
+        43.7,
+        393.29999999999995
+    ]
+}
