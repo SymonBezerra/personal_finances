@@ -14,6 +14,6 @@ Espero que goste! =)
 
 Questo progetto fu pensato come un teste para tipi OOP (un py.dict creato per mezzo di classi) in interazione con Pandas.Dataframe's.
 L'ho creato per mantenere un registro delle mie propri finanzi, invece di utilizzare una calcolatrice comune o scrive ogni elemento manualmente.
-Aspetto che vi piace! =)
+Spero che vi piace! =)
 
 Created by: Symon Bezerra, 08-13-2022
